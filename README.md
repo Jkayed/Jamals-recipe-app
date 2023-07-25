@@ -52,5 +52,5 @@ npm start
 <h2>Contributing</h2>
 <p>Contributions to the Recipe App are more than welcome! If you have any suggestions, bug fixes, or additional features to propose, please feel free to submit a pull request.</p>
 
-![Web capture_24-5-2023_212757_localhost](https://github.com/Yuroq/Jamals-recipe-app/assets/119996570/8e9f1218-c1f3-44b4-b589-5c79b43d2feb)
+(https://www.loom.com/share/7dc07cbcb1584f719d70cba5db576960?sid=555078e9-3bb7-49af-9fb6-8abdea25e8b4)https://www.loom.com/share/7dc07cbcb1584f719d70cba5db576960?sid=555078e9-3bb7-49af-9fb6-8abdea25e8b4
 
