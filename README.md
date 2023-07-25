@@ -52,5 +52,6 @@ npm start
 <h2>Contributing</h2>
 <p>Contributions to the Recipe App are more than welcome! If you have any suggestions, bug fixes, or additional features to propose, please feel free to submit a pull request.</p>
 
-(https://www.loom.com/share/7dc07cbcb1584f719d70cba5db576960?sid=555078e9-3bb7-49af-9fb6-8abdea25e8b4)https://www.loom.com/share/7dc07cbcb1584f719d70cba5db576960?sid=555078e9-3bb7-49af-9fb6-8abdea25e8b4
+
+Uploading forkify __ Search over 1,000,000 recipes - 9 May 2023 (1).mp4…
 
